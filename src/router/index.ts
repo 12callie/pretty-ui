@@ -21,7 +21,7 @@ export const router = createRouter({
         {
           path: 'doc',
           children: [
-            { path: '', redirect: '/joyful/doc/intro' },
+            { path: '', redirect: '/pretty/doc/intro' },
             { path: 'intro', component: Intro },
             { path: 'install', component: Install },
             { path: 'usage', component: Usage },
@@ -30,7 +30,7 @@ export const router = createRouter({
         {
           path: 'components',
           children: [
-            { path: '', redirect: '/joyful/components/button' },
+            { path: '', redirect: '/pretty/components/button' },
             { path: 'button', component: ButtonDemo },
             { path: 'switch', component: SwitchDemo },
             { path: 'dialog', component: DialogDemo },
@@ -41,3 +41,4 @@ export const router = createRouter({
     },
   ],
 })
+

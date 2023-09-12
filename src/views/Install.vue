@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+  install
 </template>
 
 <style scoped>

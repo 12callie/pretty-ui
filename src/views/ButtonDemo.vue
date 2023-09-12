@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+  Button
 </template>
 
 <style scoped>

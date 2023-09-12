@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+  Tabs
 </template>
 
 <style scoped>

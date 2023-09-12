@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+  Switch
 </template>
 
 <style scoped>
